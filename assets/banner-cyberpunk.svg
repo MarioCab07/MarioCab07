@@ -1,0 +1,79 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo degradado neon -->
+  <defs>
+    <linearGradient id="cyberGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040018"/>
+      <stop offset="40%" stop-color="#4b0082"/>
+      <stop offset="80%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#00ff9c"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 1
+                0 0 0 0 1
+                0 0 0 1 0" />
+    </filter>
+
+    <!-- Líneas diagonales -->
+    <pattern id="diagLines" patternUnits="userSpaceOnUse" width="40" height="40">
+      <path d="M0 40 L40 0" stroke="#ffffff22" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Fondo principal -->
+  <rect width="1200" height="320" fill="url(#cyberGradient)" />
+
+  <!-- Capa de líneas diagonales -->
+  <rect width="1200" height="320" fill="url(#diagLines)" opacity="0.4"/>
+
+  <!-- “Marco” inferior tipo panel -->
+  <rect x="40" y="220" width="1120" height="70" rx="14" ry="14"
+        fill="#02040b99" stroke="#00e5ff" stroke-width="2"/>
+
+  <!-- Nombre principal -->
+  <text x="50%" y="130"
+        text-anchor="middle"
+        font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="42"
+        font-weight="700"
+        fill="#f8f8ff">
+    Luis Mario Cabrera Torres
+  </text>
+
+  <!-- Role -->
+  <text x="50%" y="170"
+        text-anchor="middle"
+        font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="20"
+        letter-spacing="2"
+        fill="#c0f7ff">
+    BACKEND & FRONTEND DEVELOPER · SPRING BOOT · LARAVEL · REACT · NESTJS
+  </text>
+
+  <!-- Línea neon abajo del nombre -->
+  <line x1="320" y1="185" x2="880" y2="185"
+        stroke="#00e5ff" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Texto de panel inferior -->
+  <text x="70" y="255"
+        font-family="Consolas, Menlo, Monaco, monospace"
+        font-size="16"
+        fill="#00ffea">
+    > ICPC Regional Finalist 2025 · IEEEXtreme Participant · Pasante en DIPARVEL (Laravel + React)
+  </text>
+
+  <text x="70" y="280"
+        font-family="Consolas, Menlo, Monaco, monospace"
+        font-size="14"
+        fill="#7dffe0">
+    stack: Java · C++ · Spring Boot · NestJS · Laravel · React · Angular · PostgreSQL · SQL Server · Oracle · Docker · NGINX
+  </text>
+
+  <!-- Glow exterior -->
+  <rect x="40" y="220" width="1120" height="70" rx="14" ry="14"
+        fill="none" filter="url(#neonGlow)" opacity="0.7"/>
+</svg>
