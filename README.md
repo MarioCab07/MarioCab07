@@ -1,9 +1,18 @@
-<!-- HEADER -->
-<h1 align="center">👋 ¡Hola, soy Luis Mario Cabrera Torres!</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header&text=Luis%20Mario%20Cabrera%20Torres&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <h3 align="center">
-  Estudiante de Ingeniería Informática | Backend & Frontend Developer | Pasante en DIPARVEL | Apasionado por el desarrollo de software moderno
+  💻 Estudiante de Ingeniería Informática | Backend & Frontend Developer | Pasante en DIPARVEL
 </h3>
+
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=800&lines=Bienvenid@+a+mi+perfil!;Backend+Developer+(Spring+Boot+%7C+Laravel+%7C+NestJS);Frontend+Developer+(React+%7C+Angular);ICPC+Regional+Finalist+2025;IEEEXtreme+Competitor;Pasantía+en+DIPARVEL+%E2%80%94+Laravel+%2B+React"/>
+</h2>
+
+
 
 ---
 
