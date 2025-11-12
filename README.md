@@ -2,7 +2,7 @@
 <h1 align="center">👋 ¡Hola, soy Luis Mario Cabrera Torres!</h1>
 
 <h3 align="center">
-  Estudiante de Ingeniería Informática | Backend & Frontend Developer | Apasionado por la IA y el desarrollo de software
+  Estudiante de Ingeniería Informática | Backend & Frontend Developer | Pasante en DIPARVEL | Apasionado por el desarrollo de software moderno
 </h3>
 
 ---
@@ -10,12 +10,14 @@
 ## 🧠 Sobre mí
 
 - 🎓 Estudiante de Ingeniería Informática en la Universidad Centroamericana “José Simeón Cañas” (UCA)
-- 💻 Apasionado por el desarrollo **backend** (Spring Boot, NestJS, Laravel, Express)  
-- 🌐 Con experiencia frontend en **React, Angular**
-- 🐳 Me encanta crear **aplicaciones escalables** con Docker y NGINX  
-- 🤖 Machine Learning con Python, Pandas, NumPy y Scikit-learn  
-- 📚 Siempre aprendiendo nuevas tecnologías y patrones de arquitectura  
-- 📍 De Santa Ana, El Salvador  
+- 🧪 Actualmente realizando **pasantía en DIPARVEL**, trabajando en la **migración tecnológica hacia Laravel + React**
+- 💻 Enfocado en desarrollo backend con **Spring Boot, Node.js, NestJS y Laravel**
+- 🌐 Experiencia en frontend profesional con **React y Angular**
+- 🖥️ Competidor en **ICPC**, alcanzando **finales regionales 2025**
+- ⚡ Participante en **IEEE Xtreme**, competencia global de programación
+- 🐳 Me encanta crear **aplicaciones escalables**, microservicios y despliegues con **Docker + NGINX**
+- 💼 Experiencia en diseño de bases de datos, APIs REST y buenas prácticas de arquitectura
+- 📍 Santa Ana, El Salvador
 
 ---
 
@@ -25,22 +27,26 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="55"/> <!-- FIX -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
 </p>
+
 
 ## 🗄️ Bases de Datos
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/>
 </p>
 
 ## ⚙️ Herramientas y Entorno
@@ -54,21 +60,36 @@
 
 ---
 
+# 🧩 Proyectos y Áreas de Especialización
+
+- 🧪 **Pasantía en DIPARVEL — Migración tecnológica a Laravel + React**
+- 🐳 **Contenerización de aplicaciones con Docker + NGINX**
+- 🛠️ **Desarrollo de APIs REST con Spring Boot, Express y NestJS**
+- 🎨 **Frontend con React y Angular (formularios, dashboards, autenticación)**
+- 🗄️ **Diseño y modelado de bases de datos SQL / NoSQL**
+- 🔒 **Autenticación, JWT, roles, seguridad de APIs**
+- 🧰 **Pruebas de API con Postman e integración**
+- ⚙️ **Optimización y buenas prácticas de arquitectura**
+- 
+---
+
 # 📌 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| **Sistema de gestión de hostelería** | Control de reservas, clientes y habitaciones | Spring Boot + PostgreSQL |
-| **App móvil de finanzas personales** | Control de gastos, ingresos y estadísticas | React Native + Node.js |
-| **Modelo ML para predicción** | Sistema de entrenamiento y análisis predictivo | Python + Pandas + Scikit-learn |
-| **Sistema Fundación Primavera** | Gestión de información institucional | React + Node.js + PostgreSQL |
-| **Apps contenerizadas** | Microservicios desplegados con Docker | Node / Spring / NGINX |
+| **Migración Tecnológica DIPARVEL** | Transformación del sistema interno hacia Laravel + React | Laravel • React • MySQL |
+| **Sistema de gestión de hostelería** | Control de reservas, habitaciones y clientes | Spring Boot • PostgreSQL |
+| **Fundación Primavera** | Sistema web institucional de gestión de información | React • Node.js • PostgreSQL |
+| **App móvil de finanzas personales** | Control de gastos, ingresos y estadísticas | React Native • Node.js |
+| **Modelo ML para predicción** | Sistema de análisis predictivo supervisado | Python • Pandas • Scikit-learn |
+| **Apps contenerizadas** | Microservicios desplegados con Docker | Node.js • Spring • NGINX |
+
 
 ---
 
 # 🏆 Trofeos de GitHub
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luiscabreratorres&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mariocab07&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
